@@ -30,3 +30,4 @@ C:\Users\Julian\source\repos\ASPTesting\ASPTesting\obj\Debug\net6.0\refint\ASPTe
 C:\Users\Julian\source\repos\ASPTesting\ASPTesting\obj\Debug\net6.0\ASPTesting.pdb
 C:\Users\Julian\source\repos\ASPTesting\ASPTesting\obj\Debug\net6.0\ASPTesting.genruntimeconfig.cache
 C:\Users\Julian\source\repos\ASPTesting\ASPTesting\obj\Debug\net6.0\ref\ASPTesting.dll
+C:\Users\Julian\source\repos\ASPTesting\ASPTesting\obj\Debug\net6.0\ASPTesting.sourcelink.json

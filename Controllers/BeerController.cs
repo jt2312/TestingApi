@@ -17,10 +17,11 @@ namespace ASPTesting.Controllers
 
         [HttpGet]
         public IActionResult Get() => Ok(_beerService.Get());
-        [HttpGet]
-        public IActionResult GetbyId(int id)
+
+        [HttpGet("{id}")]
+        public IActionResult GetbyId(int Id)
         {
-            var beer = _beerService.Get(id);
+            var beer = _beerService.Get(Id);
             if (beer == null)
                 return NotFound();
             return Ok(beer);

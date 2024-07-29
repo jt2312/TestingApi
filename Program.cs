@@ -10,7 +10,7 @@ builder.Services.AddSwaggerGen();
 
 
 //Se inyecta interfaz
-builder.Services.AddScoped<IBeerService, IBeerService>();
+builder.Services.AddScoped<IBeerService, BeerService>();
 
 
 
